@@ -38,9 +38,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "New Mexico EPSCoR STEMAP Python Workshop"
-
-
+title: "New Mexico EPSCoR STEMAP Workshop: Python & Version Control with Git"
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
